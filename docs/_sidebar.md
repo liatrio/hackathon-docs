@@ -8,6 +8,9 @@
   - [1.4 - JIRA](1/1.4-jira.md)
   - [1.5 - Confluence](1/1.5-confluence.md)
   - [1.6 - Selenium](1/1.6-selenium.md)
+  - [1.7 - Artifactory](1/1.7-artifactory.md)
+  - [1.8 - Slack](1/1.8-slack.md)
+  - [1.9 - Deployment](1/1.9-deployment.md)
 - [2.0 - Pipeline Stages](2/2.0-overview.md)
   - [2.1 - Stage 1](2/2.1-stage-1.md)
   - [2.2 - Stage 2](2/2.2-stage-2.md)
@@ -17,3 +20,4 @@
   - [4.1 - Confluence](4/4.1-confluence.md)
 - [5.0 - F.A.Q.](5/5.0-overview.md)
   - [5.1 - What is a pipeline](5/5.1-what-is-a-pipeline.md)
+
