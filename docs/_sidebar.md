@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Hackathon docs](/)
+- [APIFest Toolchain Documentation](/)
 - [1.0 - Toolchain Overview](1/1.0-overview.md)
   - [1.1 - Jenkins](1/1.1-jenkins.md)
   - [1.2 - Jenkins Agents](1/1.2-jenkins-agents.md)
@@ -25,4 +25,3 @@
   - [4.1 - Confluence](4/4.1-confluence.md)
 - [5.0 - F.A.Q.](5/5.0-overview.md)
   - [5.1 - What is a pipeline](5/5.1-what-is-a-pipeline.md)
-
