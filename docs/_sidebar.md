@@ -23,7 +23,7 @@
   - [2.9 - Stop Container](2/2.9-stop-container.md)
   - [2.10 - TBD](2/2.10-tbd.md)
 - [3.0 - Development Prerequisites](3/3.0-overview.md)
-  - [3.1 - Login to Crowd](3/3.1-login-to-crowd.md)
+  - [3.1 - Login](3/3.1-login.md)
 - [4.0 - Development Workflow](4/4.0-overview.md)
   - [4.1 - Identify Task](4/4.1-identify-task.md)
   - [4.2 - Start Development](4/4.2-start-development.md)
