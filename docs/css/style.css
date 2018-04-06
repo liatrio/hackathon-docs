@@ -19,3 +19,6 @@
 #footer img {
   max-width: 30%;
 }
+.content, .sidebar {
+  padding-top: 10px;
+}
