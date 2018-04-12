@@ -31,7 +31,3 @@
   - [4.4 - Review Build](4/4.4-review-build.md)
   - [4.5 - Review Tests](4/4.5-review-tests.md)
   - [4.6 - Complete Task](4/4.6-complete-task.md)
-- [5.0 - Project Initialization](5/5.0-overview.md)
-  - [5.1 - Confluence](5/5.1-confluence.md)
-- [6.0 - F.A.Q.](6/6.0-overview.md)
-  - [6.1 - What is a Pipeline?](6/6.1-what-is-a-pipeline.md)
