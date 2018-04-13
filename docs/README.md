@@ -11,7 +11,7 @@ For quick access to the tools, visit <http://toolchain.fastfeedback.rocks/>.
 ### Getting Started
 If this is your first time here, you should start out by [resetting your password](3/3.1-login.md). This will allow you to login to the tools in the toolchain.
 
-If your team does not yet have a project set up, please email [support@fastfeedback.rocks](mailto:support@fastfeedback.rocks) to request a project space for your team.
+If your team does not yet have a project set up, please email [support@fastfeedback.rocks](mailto:support@fastfeedback.rocks) to request a project space for your team. See [Project Creation](3/3.2-project-creation.md) for more information.
 
 Check out the [Toolchain Overview](1/1.0-overview.md) for an introduction to the tools in the toolchain.
 

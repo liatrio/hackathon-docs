@@ -24,6 +24,7 @@
   - [2.10 - Deployment](2/2.10-deployment.md)
 - [3.0 - Development Prerequisites](3/3.0-overview.md)
   - [3.1 - Login](3/3.1-login.md)
+  - [3.2 - Project Creation](3/3.2-project-creation.md)
 - [4.0 - Development Workflow](4/4.0-overview.md)
   - [4.1 - Identify Task](4/4.1-identify-task.md)
   - [4.2 - Start Development](4/4.2-start-development.md)
